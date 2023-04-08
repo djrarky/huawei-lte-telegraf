@@ -5,6 +5,8 @@ For a full compatibility list, see the API maintainers list here: https://github
 
 ## Example
 ![Grafana Dashboard Screenshot](https://user-images.githubusercontent.com/10834935/218320610-b363ada8-d5d5-4aa3-9de1-c712f5312145.png)
+## Docker Configuration
+See here: https://github.com/djrarky/telegraf-python3#configure
 
 ## API Installation
 
