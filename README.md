@@ -8,7 +8,7 @@ For a full compatibility list, see the API maintainers list here: https://github
 ## Docker Configuration
 See here: https://github.com/djrarky/telegraf-python3#configure
 
-## API Installation
+## Native API Installation
 
 ### PIP (pip3 on some distros)
 `pip install -r requirements.txt`
