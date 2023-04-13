@@ -3,6 +3,7 @@ import time as t
 import os
 import sys
 import json
+import re
 
 modem_ip = sys.argv[1]
 modem_username = sys.argv[2]
